@@ -4,6 +4,7 @@ background-image: url('images/image.jpg')
 
 header {
 font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+margin-top: 150px;
 }
 
 .inner {
